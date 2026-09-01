@@ -10,6 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wpflow-custom
 */
 
+h1 a {color:#ddd;}
 header {
-     background-color: #d3d3d3;
+     background-color: #909;
    }
